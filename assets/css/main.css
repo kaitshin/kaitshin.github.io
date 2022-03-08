@@ -2113,7 +2113,7 @@ input, select, textarea {
 	#logo {
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
-		min-height: 48px;
+		min-height: 120px;
 		cursor: default;
 	}
 
@@ -2135,7 +2135,7 @@ input, select, textarea {
 		}
 
 		#logo .image {
-			position: absolute;
+			position: relative;
 			left: 0;
 			top: 0;
 		}
