@@ -1,0 +1,132 @@
+main:
+
+  - title: A diverse, overlooked population of Type Ia supernovae exhibiting mid-infrared signatures of delayed circumstellar interaction
+    authors: <strong>Geoffrey Mo</strong>, Kishalay De, Eli Wiston, Nayana A.J., Raffaella Margutti, et al.
+    year: 2024
+    journal_short: ArXiV
+    journal: Submitted
+    pdf: https://arxiv.org/abs/2410.14644
+    image: ./assets/img/papers/sneIa-dcsm.png
+
+  - title: On the use of galaxy catalogs in gravitational-wave parameter estimation
+    authors: <strong>Geoffrey Mo</strong>, Carl-Johan Haster, Erik Katsavounidis
+    year: 2024
+    journal_short: ArXiV
+    journal: Submitted
+    pdf: https://arxiv.org/abs/2410.14663
+    image: ./assets/img/papers/catalog-pe.png
+
+  - title: Identifying the hosts of binary black hole and neutron star-black hole mergers with next-generation gravitational-wave detectors
+    authors: <strong>Geoffrey Mo</strong>, Hsin-Yu Chen
+    year: 2024
+    journal_short: ArXiV
+    journal: Submitted
+    pdf: https://arxiv.org/abs/2402.09684
+    image: ./assets/img/papers/single-host.png
+
+  - title: A search using GEO600 for gravitational waves coincident with fast radio bursts from SGR 1935+2154
+    authors: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration (<strong>Geoffrey Mo</strong> chair of the paper writing team)
+    year: 2024
+    journal_short: ApJ
+    journal: Accepted in the Astrophysical Journal
+    pdf: https://arxiv.org/abs/2410.09151
+    image: ./assets/img/papers/sgr1935.png
+
+  - title: Low-latency gravitational wave alert products and their performance in anticipation of the fourth LIGO-Virgo-KAGRA observing run
+    authors: Sushant Sharma Chaudhary, Andrew Toivonen, Gaurav Waratkar, <strong>Geoffrey Mo</strong>, et al.
+    year: 2024
+    journal_short: PNAS
+    journal: Proceedings of the National Academy of Sciences
+    journal_url: https://www.pnas.org/doi/10.1073/pnas.2316474121
+    pdf: https://arxiv.org/abs/2308.04545
+    image: ./assets/img/papers/o4-mdc.png
+
+  - title: Multi-messenger astrophysics in the gravitational-wave era
+    authors: <strong>Geoffrey Mo</strong>, Rahul Jayaraman, Danielle Frostig, Michael Fausnaugh, Erik Katsavounidis, George Ricker
+    year: 2023
+    journal_short: TAUP
+    journal: Proceedings from TAUP 2023 (XVIII International Conference on Topics in Astroparticle and Underground Physics 2023)
+    journal_url: https://pos.sissa.it/441/105/pdf
+    pdf: https://arxiv.org/abs/2311.10229
+    image: ./assets/img/papers/taup.png
+
+  - title: Searching for Gravitational-wave Counterparts Using the Transiting Exoplanet Survey Satellite
+    authors: <strong>Geoffrey Mo</strong>, Rahul Jayaraman, Michael Fausnaugh, Erik Katsavounidis, George Ricker, Roland Vanderspek
+    year: 2023
+    journal_short: ApJL
+    journal: The Astrophysical Journal Letters
+    pdf: https://arxiv.org/abs/2302.04881
+    journal_url: https://iopscience.iop.org/article/10.3847/2041-8213/acca70
+    image: ./assets/img/papers/tess.png
+
+  - title: 'GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run'
+    authors: The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration (incl. <strong>Geoffrey Mo</strong>)
+    year: 2023
+    journal_short: PRX
+    journal: Physical Review X
+    pdf: https://arxiv.org/abs/2111.03606
+    journal_url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041039
+    image: ./assets/img/papers/gwtc3.png
+
+  - title: An Infrared Search for Kilonovae with the WINTER Telescope. I. Binary Neutron Star Mergers
+    authors: Danielle Frostig, Sylvia Biscoveanu, <strong>Geoffrey Mo</strong>, Viraj Karambelkar, Tito Dal Canton, Hsin-Yu Chen, Mansi Kasliwal, Erik Katsavounidis, Nathan P. Lourie, Robert A. Simcoe, Salvatore Vitale
+    year: 2022
+    journal_short: ApJ
+    journal: The Astrophysical Journal
+    pdf: https://arxiv.org/abs/2110.01622
+    journal_url: https://iopscience.iop.org/article/10.3847/1538-4357/ac4508
+    image: ./assets/img/papers/winter-bns.png
+
+  - title: LIGO Detector Characterization in the Second and Third Observing Runs
+    authors: D. Davis et al. (incl. <strong>Geoffrey Mo</strong>)
+    year: 2021
+    journal_short: CQG
+    journal: Classical and Quantum Gravity
+    pdf: https://arxiv.org/abs/2101.11673
+    journal_url: https://iopscience.iop.org/article/10.1088/1361-6382/abfd85
+    image: ./assets/img/papers/detchar-o3.png
+
+  - title: First demonstration of early warning gravitational wave alerts
+    authors: Ryan Magee, Deep Chatterjee, Leo P. Singer, Surabhi Sachdev, Manoj Kovalam, <strong>Geoffrey Mo</strong>, et al.
+    year: 2021
+    journal_short: ApJL
+    journal: The Astrophysical Journal Letters
+    pdf: https://arxiv.org/abs/2102.04555
+    journal_url: https://iopscience.iop.org/article/10.3847/2041-8213/abed54
+    image: ./assets/img/papers/earlywarning.png
+
+  - title: A Coincidence Null Test for Poisson-Distributed Events
+    authors: Reed Essick, <strong>Geoffrey Mo</strong>, Erik Katsavounidis
+    year: 2021
+    journal_short: PRD
+    journal: Physical Review D
+    pdf: https://arxiv.org/abs/2011.13787
+    journal_url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.042003
+    image: ./assets/img/papers/pointy.png
+
+  - title: The MICROSCOPE Space Mission and Lorentz Violation
+    authors: <strong>Geoffrey Mo</strong>, Hélène Pihan-Le Bars, Quentin G. Bailey, Christine Guerlin, Jay D. Tasson, Peter Wolf
+    year: 2019
+    journal_short: CPT
+    journal: Proceedings from Eighth Meeting on CPT and Lorentz Symmetry, Bloomington, Indiana, May 12-16, 2019
+    journal_url: https://www.worldscientific.com/worldscibooks/10.1142/11655
+    pdf: https://arxiv.org/abs/1912.07591
+    image: ./assets/img/papers/microscope-proceeding.png
+
+  - title: New test of Lorentz invariance using the MICROSCOPE space mission
+    authors: Hélène Pihan-le Bars, Christine Guerlin, Aurélien Hees, Romain Peaucelle, Jay D. Tasson, Quentin G. Bailey, <strong>Geoffrey Mo</strong>, Pacôme Delva, Frédéric Meynadier, Pierre Touboul, Gilles Métris, Manuel Rodrigues, Joël Bergé, Peter Wolf
+    year: 2019
+    journal_short: PRL
+    journal: Physical Review Letters
+    pdf: https://arxiv.org/abs/1912.03030
+    journal_url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.231102
+    image: ./assets/img/papers/microscope.png
+
+  - title: Identification and mitigation of narrow spectral artifacts that degrade searches for persistent gravitational waves in the first two observing runs of Advanced LIGO
+    authors: P. B. Covaset al. (incl. <strong>Geoffrey Mo</strong>)
+    year: 2018
+    journal_short: PRD
+    journal: Physical Review D
+    pdf: https://arxiv.org/abs/1801.07204
+    journal_url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.082002
+    image: ./assets/img/papers/lines.png
