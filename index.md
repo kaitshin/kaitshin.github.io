@@ -27,6 +27,6 @@ Nowadays, with CHIME/FRB, I maintain and lead our [baseband localization pipelin
 Throughout grad school I've been involved with Astrobites, Astronomy on Tap @Boston/Cambridge, MSRP, MIT physREFS.
 I'm particularly proud of these Astrobites pieces (a full list can be found [here](https://astrobites.org/author/kshin/)):
 - [(2019-10-17) The Nobel Prize for the Foundations of Modern Cosmology](https://astrobites.org/2019/10/17/nobel-prize-foundations-of-modern-cosmology/)
-- [(2019-07-12) H0ly Cow! A New Measurement of the Hubble Constant<](https://astrobites.org/2019/07/12/h0ly-cow-a-new-measurement-of-the-hubble-constant/)
+- [(2019-07-12) H0ly Cow! A New Measurement of the Hubble Constant](https://astrobites.org/2019/07/12/h0ly-cow-a-new-measurement-of-the-hubble-constant/)
 - [(2019-04-12) When the Sky Isn’t the Limit: Simulations of Imaging a Black Hole from Space](https://astrobites.org/2019/04/12/when-the-sky-isnt-the-limit-simulations-of-imaging-a-black-hole-from-space/)
 
