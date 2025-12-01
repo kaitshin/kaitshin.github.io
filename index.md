@@ -12,6 +12,8 @@ I've also helped discover a few extremely active repeating FRB sources (e.g., [F
 
 Nowadays, with CHIME/FRB, I maintain and lead our [baseband localization pipeline](https://ui.adsabs.harvard.edu/abs/2021ApJ...910..147M/abstract) efforts, and am currently leading our second baseband catalog effort ("BaseCat2"). (I made the main data products for [BaseCat1](https://ui.adsabs.harvard.edu/abs/2024ApJ...969..145C/abstract) — check out the data [here](https://www.chime-frb.ca/baseband-catalog-1)!)
 
+With DSA-2000, I'm working on making sure the FRB system can accomplish all our wildest (\*and realistic) hopes and dreams. Stay tuned!
+
 
 ## research interests
 
