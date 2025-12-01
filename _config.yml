@@ -7,15 +7,13 @@ email: kaitshin (at) caltech.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: kaitlyn shin caltech mit frb chime dsa
+description: 
+canonical: 
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/citations?user=_BCyG74AAAAJ
 github_link: https://github.com/kaitshin
-# twitter: https://twitter.com/gmo_omg
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
